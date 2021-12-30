@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/47408756/147720521-7eeee454-a580-471a-80a3-1a8dc8f9069e.png)
+![image](https://user-images.githubusercontent.com/47408756/147720759-9f65a78c-45aa-49af-8a93-7aff40ad52da.png)
 
 # Libraries Required
 - numpy
