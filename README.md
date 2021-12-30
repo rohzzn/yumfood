@@ -1,2 +1,8 @@
-# YumFood
-Food is ew or yum based on user reviews using the SVM algorithm.
+![image](https://user-images.githubusercontent.com/47408756/147720521-7eeee454-a580-471a-80a3-1a8dc8f9069e.png)
+
+# Libraries Required
+- numpy
+- pandas
+- nltk
+- sklearn
+- matplotlib
