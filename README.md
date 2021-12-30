@@ -6,3 +6,7 @@
 - nltk
 - sklearn
 - matplotlib
+
+# Data Set
+- Restaurant Reviews 
+- Movie Reviews, etc.
